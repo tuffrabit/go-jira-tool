@@ -1,0 +1,6 @@
+{
+  "base_url": "https://your-org.atlassian.net",
+  "email": "your-email@example.com",
+  "api_token": "your-api-token-here",
+  "default_project": "PROJ"
+}
