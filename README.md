@@ -223,7 +223,7 @@ Prints the build version. Set at build time via `-ldflags "-X main.Version=<vers
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Security issues: see [SECURITY.md](SECURITY.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
